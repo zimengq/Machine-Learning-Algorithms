@@ -13,3 +13,5 @@ Classcial machine learning algorithms implemented:
 - Batch Gradient Descent for Logistic Regression
 
 - Linear SVM (soft margin)
+
+- Neural Network (1 hidden layer)
